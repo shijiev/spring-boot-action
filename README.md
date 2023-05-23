@@ -4,6 +4,9 @@
 - [x] [spring-boot-hello]()<br/>
 - [x] [spring-boot 整合 RocketMQ 实战](https://)<br/>
 - [x] [spring-boot 整合 redis 实战]()<br/>
+- [x] [spring-boot 整合 mybatis 实战]()<br/>
+  - druid 启动地址
+    > 这个 http://localhost:9010/${context-path}/druid/login.html
 - [ ] [Quartz]()<br/>
 - [ ] [spring-boot整合spring-cloud-alibaba 之 Nacos]()<br/>
 - [ ] [spring-boot整合spring-cloud-alibaba 之 Fegin]()<br/>
