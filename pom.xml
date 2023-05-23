@@ -58,6 +58,11 @@
         </dependency>
     </dependencies>
 
+    <modules>
+        <module>spring-boot-action-hello</module>
+        <module>spring-boot-action-rocketmq</module>
+        <module>spring-boot-action-mybatis</module>
+    </modules>
     <build>
         <plugins>
             <plugin>
